@@ -7,8 +7,8 @@
 
 [<img align='left' alt='Discord' width='22px' src="https://www.svgrepo.com/show/353655/discord-icon.svg">](https://discord.com/channels/@haidarov_a)
 
-[<img align='left' alt='Discord' width='22px' src="https://www.svgrepo.com/show/452229/instagram-1.svg">](https://instagram.com/ahror__haydarov)
-
+[<img align='left' alt='Discord' width='22px' src="https://www.svgrepo.com/show/452229/instagram-1.svg">](https://instagram.com/ahror__haydarov) 
+\
 ## Technology stack
 
 ![Python](https://shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
