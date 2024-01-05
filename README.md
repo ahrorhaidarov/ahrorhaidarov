@@ -1,4 +1,4 @@
-<h1 align="center">TOJIKISTON BA PESH!!! 🇹🇯</h1>
+<h1 align="center">TOJIKISTON BA PESH!!!</h1>
 <br>
 
 ![Header](name.svg)
