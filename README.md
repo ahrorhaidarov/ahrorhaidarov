@@ -24,7 +24,7 @@
 
 ![Numpy](https://shields.io/badge/-Numpy-purple?style=for-the-badge&logo=Numpy&logoColor=blue)
 ![Pandas](https://shields.io/badge/-Pandas-EEE8AA?style=for-the-badge&logo=Pandas&logoColor=2d004d)
-
+![Matplotlib](https://shields.io/badge/-Matplotlib-EEE8AA?style=for-the-badge&logo=Matplotlib&logoColor=2d004d)
 
 ### Tools
 
