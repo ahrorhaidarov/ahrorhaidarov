@@ -22,9 +22,11 @@
 
 ### Data Science
 
-![Numpy](https://shields.io/badge/-Numpy-purple?style=for-the-badge&logo=Numpy&logoColor=blue)
-![Pandas](https://shields.io/badge/-Pandas-EEE8AA?style=for-the-badge&logo=Pandas&logoColor=2d004d)
-![Matplotlib](https://shields.io/badge/-Matplotlib-EEE8AA?style=for-the-badge&logo=Matplotlib&logoColor=2d004d)
+![Numpy](https://img.shields.io/badge/-Numpy-purple?style=for-the-badge&logo=Numpy&logoColor=blue)
+![Pandas](https://img.shields.io/badge/-Pandas-EEE8AA?style=for-the-badge&logo=Pandas&logoColor=2d004d)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-008080?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3771A1?style=for-the-badge&logo=Seaborn&logoColor=white)
+
 
 ### Tools
 
