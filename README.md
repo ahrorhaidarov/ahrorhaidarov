@@ -41,3 +41,8 @@
 ![Jupyter Notebook](https://shields.io/badge/-Jupyter-ff9933?style=for-the-badge&logo=Jupyter&logoColor=black)
 ![Git](https://shields.io/badge/-Git-7a5c33?style=for-the-badge&logo=Git&logoColor=e36100)
 ![Github](https://shields.io/badge/-Github-3630cf?style=for-the-badge&logo=Github&logoColor=black)
+
+<br>
+
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahrorhaidarov&label=Profile%20views&color=0e75b6&style=flat" alt="ahrorhaidarov" /> </p>)
+[//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
