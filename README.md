@@ -5,7 +5,7 @@
 
 
 ***
-## I'm a beginner Python Developer
+## I'm a Python Developer
 ## Get in touch with Me
 
 [<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>](https://www.t.me/ahror_haydarov)
@@ -24,8 +24,9 @@
 
 ![Numpy](https://img.shields.io/badge/-Numpy-purple?style=for-the-badge&logo=Numpy&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/-Pandas-EEE8AA?style=for-the-badge&logo=Pandas&logoColor=2d004d)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-008080?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3771A1?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-purple?style=for-the-badge&logo=Plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
+
 
 
 ### Tools
