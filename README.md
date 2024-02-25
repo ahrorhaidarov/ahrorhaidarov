@@ -13,6 +13,8 @@
 [<img align='left' alt='Discord' width='22px' src="https://www.svgrepo.com/show/353655/discord-icon.svg">](https://discord.com/channels/@haidarov_a)
 
 [<img align='left' alt='Discord' width='22px' src="https://www.svgrepo.com/show/452229/instagram-1.svg">](https://instagram.com/ahror__haydarov) 
+
+[<img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />](https://www.linkedin.com/in/ahrorjon-haidarov/)
 <br>
 
 ## Technology stack
@@ -39,4 +41,3 @@
 ![Jupyter Notebook](https://shields.io/badge/-Jupyter-ff9933?style=for-the-badge&logo=Jupyter&logoColor=black)
 ![Git](https://shields.io/badge/-Git-7a5c33?style=for-the-badge&logo=Git&logoColor=e36100)
 ![Github](https://shields.io/badge/-Github-3630cf?style=for-the-badge&logo=Github&logoColor=black)
-
