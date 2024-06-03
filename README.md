@@ -12,9 +12,9 @@
 
 [<img align='left' alt='Discord' width='22px' src="https://www.svgrepo.com/show/353655/discord-icon.svg">](https://discord.com/channels/@haidarov_a)
 
-[<img align='left' alt='Discord' width='22px' src="https://www.svgrepo.com/show/452229/instagram-1.svg">](https://instagram.com/ahror__haydarov) 
+[<img align='left' alt='Instagram' width='22px' src="https://www.svgrepo.com/show/452229/instagram-1.svg">](https://instagram.com/ahror__haydarov) 
 
-[<img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />](https://www.linkedin.com/in/ahrorjon-haidarov/)
+[<img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />](https://www.linkedin.com/in/ahrorhaidarov/)
 <br>
 
 ## Technology stack
