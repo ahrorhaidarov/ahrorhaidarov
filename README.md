@@ -5,7 +5,7 @@
 
 
 ***
-## I'm a Python Developer
+## I'm a Data Scientist
 ## Get in touch with Me
 
 [<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>](https://www.t.me/ahror_haydarov)
