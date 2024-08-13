@@ -44,3 +44,8 @@
 ![Git](https://shields.io/badge/-Git-7a5c33?style=for-the-badge&logo=Git&logoColor=e36100)
 ![Github](https://shields.io/badge/-Github-3630cf?style=for-the-badge&logo=Github&logoColor=black)
 
+![Stars](https://github-readme-stats.vercel.app/api?username=ahrorhaidarov&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ahrorhaidarov&theme=dark)
+
+![Most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahrorhaidarov&layout=compact)
