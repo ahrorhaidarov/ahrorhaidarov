@@ -22,14 +22,14 @@
 ## Technology stack
 
 ![Python](https://shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-![SQLite](https://shields.io/badge/-SQLite-Blue?style=for-the-badge&logo=SQLite&logoColor=blue)
-
-### Data Science
-
 ![Numpy](https://img.shields.io/badge/-Numpy-purple?style=for-the-badge&logo=Numpy&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/-Pandas-EEE8AA?style=for-the-badge&logo=Pandas&logoColor=2d004d)
 ![Plotly](https://img.shields.io/badge/-Plotly-purple?style=for-the-badge&logo=Plotly&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=black)
+![Selenium](https://img.shields.io/badge/-Selenium-grey?style=for-the-badge&logo=selenium)
+![Aiohttp](https://img.shields.io/badge/-Aiohttp-silver?style=for-the-badge&logo=aiohttp&logoColor=blue)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-gold?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 
 
